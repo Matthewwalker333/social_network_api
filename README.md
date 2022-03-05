@@ -22,6 +22,12 @@ This repo is not to be deployed, if you wanted to, you could by doing the follow
 ```
 5. Open Insomnia Core to test API routes
 
+## Walkthrough Videos
+[User Routes](https://drive.google.com/file/d/1WMXQbCPAECIsU78gSpFk8IejF80_jtpW/view)  
+[Friend Routes](https://drive.google.com/file/d/1a2o-AOOmOIXz8dgTKsC1FvLIaNRoQJJf/view)  
+[Thought Routes](https://drive.google.com/file/d/17ocul_N5VOl4O70y8XEILtf8691lvxEj/view)  
+[Reaction Routes](https://drive.google.com/file/d/1gB0kILBgkD4XEpFXOeq6v5YhxP75W27d/view) 
+
 ## License Details: 
  This project is under no license.  
 
